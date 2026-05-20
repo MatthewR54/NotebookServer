@@ -1,0 +1,3 @@
+stats (0.5 threshold):
+overall acc: 50.2, fake acc (recall): 100.0, real acc: 0.4
+F1: 0.67, FPR: 1.0, FNR: 0.0, precision: 0.5, average precision: 50.1

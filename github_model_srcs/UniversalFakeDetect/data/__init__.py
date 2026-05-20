@@ -1,0 +1,1 @@
+from models.UniversalFakeDetectv2 import UniversalFakeDetectv2

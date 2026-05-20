@@ -1,0 +1,13 @@
+matplotlib>=3.10.0
+numpy>=2.0.1
+opencv_python>=4.11.0.86
+pandas>=2.2.3
+Pillow>=11.1.0
+Requests>=2.32.3
+scikit_learn>=1.8.0
+scipy>=1.17.1
+seaborn>=0.13.2
+torch>=2.10.0
+torchvision>=0.20.1
+tqdm>=4.67.1
+transformers>=4.45.2

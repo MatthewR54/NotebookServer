@@ -1,0 +1,4 @@
+C:\Users\Janus\Documents\NotebookServer\datasets\definitive_selected_100imgs\fake\8_mai-image-1.jpg
+C:\Users\Janus\Documents\NotebookServer\datasets\definitive_selected_100imgs\fake\7_gemini-2.5-flash-image.jpg
+C:\Users\Janus\Documents\NotebookServer\datasets\definitive_selected_100imgs\fake\5_glm-image.jpg
+C:\Users\Janus\Documents\NotebookServer\datasets\definitive_selected_100imgs\fake\10_gemini-2.5-flash-image.jpg

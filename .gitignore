@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+github_model_srcs/DistilDIRE/datasets/
+github_model_srcs/pretrained_weights/
+models/mirage_*
